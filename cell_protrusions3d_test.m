@@ -2,7 +2,6 @@
 clc; clear all; close all;
 
 %% path
-addpath('./lib')
 addpath('../blob3d/lib')
 
 %% load image
