@@ -6,6 +6,9 @@
 | ------------- | ------------- |
 | <img src="https://github.com/BoguslawObara/cell_protrusions3d/blob/master/im/cell_in.png" width="250"> | <img src="https://github.com/BoguslawObara/cell_protrusions3d/blob/master/im/cell_out.png" width="250"> |
 
+Required packages:
+- [blob3d](../../../blob3d)
+
 If you find this code useful in your research and development, please consider citing:
 
     @article{Scales2013,
